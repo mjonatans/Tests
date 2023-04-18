@@ -1,0 +1,17 @@
+{
+    "name": "markuss/ph-ptest",
+    "autoload": {
+        "psr-4": {
+            "Markuss\\PhPtest\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Markuss",
+            "email": "mjonatans@inbox.lv"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
